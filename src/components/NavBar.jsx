@@ -10,8 +10,8 @@ const NavBar = () => {
           <a href="#contact" className="text-gray-600 hover:text-gray-900">Contact</a>
         </div>
         <div className="hidden md:flex space-x-8">
-          <a href="https://github.com" target="_blank" className="text-gray-600 hover:text-gray-900">GitHub</a>
-          <a href="https://linkedin.com" target="_blank" className="text-gray-600 hover:text-gray-900">LinkedIn</a>
+          <a href="https://github.com/DoraNac" target="_blank" className="text-gray-600 hover:text-gray-900">GitHub</a>
+          <a href="https://www.linkedin.com/in/dora-nacinovic-568b202a8/" target="_blank" className="text-gray-600 hover:text-gray-900">LinkedIn</a>
         </div>
       </div>
     </nav>

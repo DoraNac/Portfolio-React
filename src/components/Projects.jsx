@@ -34,7 +34,7 @@ const projects = [
   {
     title: "Responsive Shop React",
     description:
-      "responsive single-page mimicking a shop page, displays products and loads more items on click.",
+      "A fully responsive single-page React application that emulates a shopping page. It features a product display grid and dynamically loads more items upon user interaction.",
     projectUrl: "https://shop-react-red-black-white.netlify.app/",
     repoUrl: "https://github.com/DoraNac/responsive-react",
     imageUrl: "./public/shop.jpg",
@@ -79,8 +79,8 @@ const Projects = () => {
     <div className="container mx-auto">
       <h2 className="text-3xl font-bold mb-8">My Projects</h2>
       <p className="text-2xl md:text-1xl">
-        Here you can find and check all my personal and group projects. <br />
-        Descriptions, images and links are provided. Click on the project to
+        Here you can find and check all my <strong>projects</strong>. <br /> <br />
+        <strong>Descriptions, images</strong> and <strong>links</strong> are provided. <strong>Click on the project</strong> to
         get redirected to its page.
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 mt-8">
