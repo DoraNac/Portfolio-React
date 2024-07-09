@@ -7,21 +7,21 @@ const projects = [
       "A simple Netflix-style movie application built with React and Vite. Users can search for movies and view information about their favorite movies.",
     projectUrl: "https://movie-meowflix-api.netlify.app/",
     repoUrl: "https://github.com/DoraNac/movie-flix",
-    imageUrl: "./public/u.jpg",  },
+    imageUrl: "./u.jpg",  },
   {
     title: "To Do App React",
     description:
       "A simple To-Do app built with React and Vite. Saving 'to-do' inputs in the local storage, it has 'done' and 'delete' features.",
     projectUrl: "https://to-do-app-local-storage.netlify.app/",
     repoUrl: "https://github.com/DoraNac/ToDoApp",
-    imageUrl: "./public/todo.jpg",  },
+    imageUrl: "./todo.jpg",  },
   {
     title: "Weather Station DOM manipulation JS",
     description:
       "Simple app where users get the current weather and 4-day forecast for any city. It fetches data (OpenMeteoAPI) based on the location input (OpenStreetMapAPI) and displays it using DOM manipulation in JS.",
     projectUrl: "https://weather-station-dom-manipulation.netlify.app/",
     repoUrl: "https://github.com/DoraNac/weather-station-DOM-manipulation1",
-    imageUrl: "./public/weather.jpg",
+    imageUrl: "./weather.jpg",
   },
   {
     title: "Responsive Zig Zag React",
@@ -29,7 +29,7 @@ const projects = [
       "A lightweight, completely responsive React webpage with: Navbar, hero section, grid images and text and a footer. Built using Vite template.",
     projectUrl: "https://responsive-layout-react-css.netlify.app/",
     repoUrl: "https://github.com/DoraNac/zig-zag-react",
-    imageUrl: "./public/light.jpg",
+    imageUrl: "./light.jpg",
   },
   {
     title: "Responsive Shop React",
@@ -37,7 +37,7 @@ const projects = [
       "A fully responsive single-page React application that emulates a shopping page. It features a product display grid and dynamically loads more items upon user interaction.",
     projectUrl: "https://shop-react-red-black-white.netlify.app/",
     repoUrl: "https://github.com/DoraNac/responsive-react",
-    imageUrl: "./public/shop.jpg",
+    imageUrl: "./shop.jpg",
   },
   {
     title: "Responsive CSS/HTML",
@@ -45,7 +45,7 @@ const projects = [
       "This project shows the use of Flexbox and Grid layout techniques to create a responsive webpage. The design adapts to different screen sizes, including laptops and mobile devices.",
     projectUrl: "https://mobile-responsive-exercise.netlify.app/",
     repoUrl: "https://github.com/DoraNac/responsive-flex-grid",
-    imageUrl: "./public/resp.desk.jpg",
+    imageUrl: "./resp.desk.jpg",
   },
   {
     title: "SASS/HTML Tech News Page",
@@ -53,7 +53,7 @@ const projects = [
       "This project demonstrates the use of SASS for styling a single-page HTML webpage. The design includes a navbar, hero section, content sections with images and text and a footer with social media links.",
     projectUrl: "https://project-css-exercise.netlify.app/",
     repoUrl: "https://github.com/DoraNac/HTML-Sass",
-    imageUrl: "./public/ult1.jpg",
+    imageUrl: "./ult1.jpg",
   },
   {
     title: "CSS/HTML Grid",
@@ -61,7 +61,7 @@ const projects = [
       "This project demonstrates the use of grid display and basic styling. It features a navigation bar, a hero section, a grid of images, and a footer.",
     projectUrl: "https://grid-app-news.netlify.app/",
     repoUrl: "https://github.com/DoraNac/FigmaGrid",
-    imageUrl: "./public/grid.jpg",
+    imageUrl: "./grid.jpg",
   },
   {
     title: "CSS/HTML Flex",
@@ -69,7 +69,7 @@ const projects = [
       "This project demonstrates the use of flex display showcasing available and unavailable features.",
     projectUrl: "https://card-css-cd26f8.netlify.app/",
     repoUrl: "https://github.com/DoraNac/FigmaFlex",
-    imageUrl: "./public/flex.jpg",
+    imageUrl: "./flex.jpg",
   },
 ];
 
