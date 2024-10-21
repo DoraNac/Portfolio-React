@@ -3,10 +3,12 @@ import HeroSection from "./components/HeroSection";
 import AboutMe from "./components/AboutMe";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+// import SpotlightEffect from "./components/SpotlightEffect";
 
 function App() {
   return (
     <>
+      {/* <SpotlightEffect /> */}
       <div>
         <NavBar />
         <HeroSection />
